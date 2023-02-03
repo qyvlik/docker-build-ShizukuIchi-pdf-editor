@@ -1,6 +1,6 @@
 # docker-build-ShizukuIchi-pdf-editor
 
-Auto build https://github.com/ShizukuIchi/pdf-editor, See https://hub.docker.com/r/qyvlik/ShizukuIchi-pdf-editor
+Auto build https://github.com/ShizukuIchi/pdf-editor, See https://hub.docker.com/r/qyvlik/shizukuichi-pdf-editor
 
 ## run
 
