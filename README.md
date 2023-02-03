@@ -9,7 +9,7 @@ docker run \
   --rm \
   -it \
   -p "5000:80" \
-  qyvlik/ShizukuIchi-pdf-editor:latest
+  qyvlik/shizukuichi-pdf-editor:latest
 ```
 
 Open http://localhost:5000
